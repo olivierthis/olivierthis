@@ -22,7 +22,7 @@
 	<code><img height="60" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" /></code>
 </div>
 
-![Metrics](/.github/workflows/github-metrics.svg)
+![Metrics](/github-metrics.svg)
 
 <!---
 olivierthis/olivierthis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
