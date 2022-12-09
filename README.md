@@ -1,10 +1,16 @@
 ![github-header-image](https://user-images.githubusercontent.com/119229952/206727092-733449c7-fb8f-4557-bed7-e79075d15b6c.png)
 
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" /> Little About Me
+
 - 👋 Hi, I’m @olivierthis
-- 👀 I’m interested in ...
+- 👀 I’m interested in too many topics but mainly webdevelopment, AI & ML, blockchain, hacking, IoT, etc.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="50" height="50" /> Tech I Worked With
 
 <div align="center">
 	<code><img height="60" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
@@ -21,6 +27,8 @@
 	<code><img height="60" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx" /></code>
 	<code><img height="60" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" /></code>
 </div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="50" height="50" /> Details
 
 ![Metrics](/github-metrics.svg)
 
