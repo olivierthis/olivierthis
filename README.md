@@ -1,4 +1,3 @@
-![github-header-image](https://user-images.githubusercontent.com/119229952/206727092-733449c7-fb8f-4557-bed7-e79075d15b6c.png)
 ![Header](https://raw.githubusercontent.com/olivierthis/olivierthis/refs/heads/master/.github/workflows/github-header-banner.png)
 
 
@@ -6,8 +5,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" /> Little About Me
 
 - 👋 Hi, I’m @olivierthis
-- 👀 I’m interested in too many topics but mainly webdevelopment, AI & ML, blockchain, hacking, IoT, etc.
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in too many topics but mainly AI, metaphysics, blockchain, biotechnology, IoT, etc.
+- 🌱 I’m currently learning to master agent swarms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
